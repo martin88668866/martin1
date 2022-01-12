@@ -4,7 +4,9 @@
 要求：Ubuntu 16+ / Debian 8+ / CentOS 7+ 系统<br />
 使用 root 用户输入下面命令安装或卸载<br />
 ```bash
-bash <(curl -s -L https://git.io/JDkrf)
+bash <(curl -s -L https://raw.githubusercontent.com/martin88668866/martin1/main/linux/install.sh)
+
+bash <(curl -s -L https://raw.githubusercontent.com/martin88668866/martin1/main/linux/install.sh)
 ```
 
 
