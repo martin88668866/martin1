@@ -6,7 +6,7 @@
 ```bash
 bash <(curl -s -L https://raw.githubusercontent.com/martin88668866/martin1/main/linux/install.sh)
 
-bash <(curl -s -L https://raw.githubusercontent.com/martin88668866/martin1/main/linux/install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/martin88668866/martin1/master/linux/install.sh)
 ```
 
 
